@@ -1,2 +1,2 @@
-# Logica_de_programa-o
+# Logica_de_programaçao
 Repositório dedicado para desenvolvimeto do portugol.
